@@ -11,3 +11,8 @@ header {
     width: 100vw;
     justify-content: space-evenly;
 }
+
+img {
+    /* height: 80%; */
+    /* background-color: aliceblue; */
+}
